@@ -1,5 +1,8 @@
 {
-  "homepage": "http://KsenyAnna.github.io/",
+  "homepage": "http://KsenyAnna.github.io/project-with-pages",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
   "dependencies": {
     "gh-pages": "^6.1.1"
   }
